@@ -1,0 +1,5 @@
+.DS_Store
+needs.md
+PROMPT-new-case.md
+cases/*/needs.md
+cases/*/case.md
